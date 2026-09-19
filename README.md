@@ -84,9 +84,6 @@ A RESTful journaling API with 11 endpoints across 4 controllers, built on a 3-la
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khwaish0512&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khwaish0512&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khwaish0512&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
 
 </div>
