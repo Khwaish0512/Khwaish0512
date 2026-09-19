@@ -80,10 +80,25 @@ A RESTful journaling API with 11 endpoints across 4 controllers, built on a 3-la
 
 <br/>
 
+### stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khwaish0512&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khwaish0512&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khwaish0512&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
+
+</div>
+
+<br/>
+
 ### contact
 
-| | |
-|---|---|
-| email | [khwaishtiwari0512@gmail.com](mailto:khwaishtiwari0512@gmail.com) |
-| linkedin | [linkedin.com/in/khwaish-tiwari](https://linkedin.com/in/khwaish-tiwari) |
-| github | [github.com/Khwaish0512](https://github.com/Khwaish0512) |
+<div>
+
+[![Email](https://img.shields.io/badge/-khwaishtiwari0512@gmail.com-161B22?style=flat&logo=gmail&logoColor=58A6FF)](mailto:khwaishtiwari0512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58A6FF?style=flat)](https://linkedin.com/in/khwaish-tiwari)
+[![GitHub](https://img.shields.io/badge/-Khwaish0512-161B22?style=flat&logo=github&logoColor=58A6FF)](https://github.com/Khwaish0512)
+
+</div>
